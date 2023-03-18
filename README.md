@@ -9,3 +9,12 @@
 -  Python
 -  Numpy
 -  Pandas
+
+
+**Pasos a seguir**
+1. Preparamos los datos y el ambiente
+2. Analisis de datos
+3. Resultados y Conclusiones 
+4. Recomendaciones
+
+**Para mayor detalles del procedimiento para realizar el análisis, se debe de seguir los pasos establecidos en el archivo .ipynb**
